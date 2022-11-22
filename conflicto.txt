@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Natos y Waor
+=======
+12:45
+>>>>>>> origin/main
